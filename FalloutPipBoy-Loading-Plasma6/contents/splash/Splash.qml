@@ -52,8 +52,8 @@ Rectangle {
         //property int sizeAnim: 500
 
         id: imageSource
-        width:  800
-        height: 600
+        width:  1600
+        height: 900
         color:  "transparent"
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.verticalCenter: parent.verticalCenter
@@ -65,8 +65,8 @@ Rectangle {
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
-            width:  800
-            height: 600
+            width:  1600
+            height: 900
             smooth: true
             visible: true
          }
